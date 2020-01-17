@@ -16,3 +16,4 @@ test('players are rendered', () => {
   container.getByText(/name/i);
   container.getByText(/country/i);
 })
+
